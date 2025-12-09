@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krubhanandhan45/Krubhanandhan-Krishnan-Cybersecurity-SOC-Portfolio/refs/heads/main/cyber-security-concepts-vector-52832848.avif" 
+       alt="Cybersecurity Portfolio Banner" width="100%">
+</p>
+
+
 Krubhanandhan Krishnan — Cybersecurity SOC Portfolio
 
 SOC Analyst | Blue Team | Detection Engineering | Threat Analysis | Security Monitoring
